@@ -1,0 +1,38 @@
+header{
+
+    padding: 20px 10px;
+    border-radius: 5px;
+    border: 1px solid #f0f0f0;
+    margin-bottom: 1px;
+    margin-left: -2px;
+   }
+    
+    
+   header h1.judul,
+   header h6.deskripsi{
+    text-align: center; 
+   }
+   h2{
+    font-style: initial;
+    font-weight: bold;
+   }
+   label{
+    font-size: 15pt;
+    font-style: initial;
+    font-weight: bold;
+   }
+   small{
+    font-style: italic;
+   }
+   .dropdown{
+    padding-right: 83px;
+    padding-bottom: 15px;
+   }
+   .form_Calculator_USD{
+    padding-right: 79px;
+    padding-bottom: 5px;
+   }
+   
+   .judul, .deskripsi,label,small,h1,h2,h6.deskripsi{
+    color: white;
+   }
